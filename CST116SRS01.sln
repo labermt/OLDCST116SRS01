@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CST116SRS01", "CST116SRS01\CST116SRS01.vcxproj", "{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5497E76D-335A-4003-A913-D9078D55CC44}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Debug|x64.ActiveCfg = Debug|x64
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Debug|x64.Build.0 = Debug|x64
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Debug|x86.Build.0 = Debug|Win32
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Release|x64.ActiveCfg = Release|x64
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Release|x64.Build.0 = Release|x64
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Release|x86.ActiveCfg = Release|Win32
+		{FA1DFF32-E1C1-4F56-93C1-4108B4E8B1DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E30DDE4F-3B26-405C-942F-45754BC78ED5}
+	EndGlobalSection
+EndGlobal
