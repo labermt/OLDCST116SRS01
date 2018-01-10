@@ -64,7 +64,7 @@ Create a project named "Part1" Calculate the size of the following literals and 
 * ‘\377’
 * 0.0
 * 0f
-* "Annie" " " "\"Lennox\"\n"
+* "Annie" " " "\\"Lennox\\"\n"
 
 Terminate each output with a non-flushing newline.  
 
