@@ -43,7 +43,7 @@ Create a project named "Part0" that calculates the size of the following data ty
 * double
 * long double
 
-Create an assert statement for each type’s size entry found in table 4.3.1 page 81. 
+Create an assert statement for each typeâ€™s size entry found in table 4.3.1 page 81. 
 Use either == or != comparison to pass every assertion for the x86 debug configuration build.  
 
 Batch build all x86, 64 bit and debug, release versions of your code.  
@@ -54,17 +54,17 @@ Part 1:
 
 Create a project named "Part1" Calculate the size of the following literals and print the value and size to std::cout:  
 
-*false
-*true
-*0
-*1
-*0xffff
-*0UL
-*‘\0’
-*‘\377’
-*0.0
-*0f
-*"Annie" " " "\"Lennox\"\n"
+* false
+* true
+* 0
+* 1
+* 0xffff
+* 0UL
+* â€˜\0â€™
+* â€˜\377â€™
+* 0.0
+* 0f
+* "Annie" " " "\"Lennox\"\n"
 
 Terminate each output with a non-flushing newline.  
 
