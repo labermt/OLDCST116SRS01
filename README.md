@@ -6,7 +6,7 @@ Class ID:  *Pokemon*
 
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  None. 
+Unresolved Issues:  *?* 
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
