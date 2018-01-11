@@ -2,7 +2,7 @@
 sizeof
 
 
-Class ID:  Nidoran 
+Class ID:  *Pokemon* 
 
 SRS ID:  CST116SRS01 
 
