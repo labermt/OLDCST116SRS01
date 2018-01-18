@@ -2,7 +2,7 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Cottonee 
 
 SRS ID:  CST116SRS01 
 
