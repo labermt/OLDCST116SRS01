@@ -6,13 +6,13 @@ Class ID:  Bouffalant
 
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  *?* 
+Unresolved Issues:  none 
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
 ---
 
-Purpose:  
+Purpose:
 
 * Learn to create a Visual Studio solution with multiple projects and multiple configurations. 
 * Learn how to find the sizes of various literals and data types. 

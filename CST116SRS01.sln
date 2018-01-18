@@ -9,8 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Part1", "Part1\Part1.vcxpro
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6EB18158-5D73-444D-822E-4BD196619CD8}"
 	ProjectSection(SolutionItems) = preProject
-		..\CST116SRS01d\LICENSE = ..\CST116SRS01d\LICENSE
-		..\CST116SRS01d\README.md = ..\CST116SRS01d\README.md
+		LICENSE = LICENSE
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
