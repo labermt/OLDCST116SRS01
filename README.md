@@ -2,7 +2,7 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Bouffalant
 
 SRS ID:  CST116SRS01 
 
@@ -34,7 +34,6 @@ Create a project named "Part0" that calculates the size of the following data ty
 * signed
 * unsigned
 * int
-* unsigned short
 * std::size_t
 * signed long
 * unsigned long
@@ -43,7 +42,7 @@ Create a project named "Part0" that calculates the size of the following data ty
 * double
 * long double
 
-Create an assert statement for each type’s size entry found in table 4.3.1 page 81. 
+Create an assert statement for each type’s size entry found in table 4.3.1 page 81 except int. 
 Use either == or != comparison to pass every assertion for the x86 debug configuration build.  
 
 Batch build all x86, 64 bit and debug, release versions of your code.  
@@ -63,7 +62,7 @@ Create a project named "Part1" Calculate the size of the following literals and 
 * ‘\0’
 * ‘\377’
 * 0.0
-* 0f
+* 0.f
 * "Annie" " " "\\"Lennox\\"\n"
 
 Terminate each output with a non-flushing newline.  
