@@ -1,4 +1,4 @@
-// main.cpp : Part 1 main
+// main.cpp : Part1 main
 //
 
 #include "stdafx.h"
