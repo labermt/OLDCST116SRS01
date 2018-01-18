@@ -2,7 +2,7 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Cottonee 
 
 SRS ID:  CST116SRS01 
 
@@ -29,7 +29,6 @@ Create a project named "Part0" that calculates the size of the following data ty
 * signed char
 * unsigned char
 * char
-* unsigned short
 * short
 * signed
 * unsigned
@@ -49,6 +48,14 @@ Use either == or != comparison to pass every assertion for the x86 debug configu
 Batch build all x86, 64 bit and debug, release versions of your code.  
 
 In the README.md file, note for each assertion if it passes or fails the assertion test regardless of the build configuration.  
+
+assert(sizeof(char) == 1)			Passes
+assert(sizeof(float) == 4)			Passes
+assert(sizeof(double) == 8)			Passes
+assert(sizeof(bool) == 1)			Passes
+assert(sizeof(short) != 1)			Passes
+assert(sizeof(long) != 2)			Passes
+assert(sizeof(long double) != 4)	Passes
 
 Part 1:  
 
