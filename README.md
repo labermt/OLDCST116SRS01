@@ -2,14 +2,18 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Escavalier
 
 SRS ID:  CST116SRS01 
 
 Unresolved Issues:  *?* 
-
+None
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
-
+				char	float	double	bool	short	long	long double
+Debug Winx32	pass	pass	pass	pass	pass	pass	pass
+Debug x64		pass	pass	pass	pass	pass	pass	pass
+Release Winx32	pass	pass	pass	pass	pass	pass	pass
+Release x64		pass	pass	pass	pass	pass	pass	pass
 ---
 
 Purpose:  
