@@ -2,13 +2,21 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Fearow 
 
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  *?* 
+Unresolved Issues:  None 
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
+
+All assertions passed in the following build configurations:
+	Debug x86
+	Debug x64
+	Release x86
+	Release x64
+
+	Part1 0f literal changed to 0.f per instructions during lab.
 
 ---
 
