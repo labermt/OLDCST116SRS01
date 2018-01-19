@@ -2,11 +2,11 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Taillow 
 
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  *?* 
+Unresolved Issues:  none
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
@@ -63,8 +63,8 @@ Create a project named "Part1" Calculate the size of the following literals and 
 * ‘\0’
 * ‘\377’
 * 0.0
-* 0f
-* "Annie" " " "\\"Lennox\\"\n"
+* 0.f
+* "Annie" " " "\"Lennox\"\n"
 
 Terminate each output with a non-flushing newline.  
 
