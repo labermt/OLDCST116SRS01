@@ -2,7 +2,7 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  *Corphish* 
 
 SRS ID:  CST116SRS01 
 
