@@ -2,15 +2,27 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
-
+Class ID: Vulpix
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  *?* 
+Unresolved Issues: None.
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
----
+Part0 Assertions succeeded or failed regardless of build:
+
+				Debug x64		Release x64		  Debug x86		  Release x86
+Data Type		Pass/Fail		Pass/Fail		  Pass/Fail		  Pass/Fail
+
+char			Pass			Pass			  Pass			  Pass
+float			Pass			Pass			  Pass			  Pass
+double			Pass			Pass			  Pass			  Pass
+bool			Pass			Pass			  Pass			  Pass
+short			Pass			Pass			  Pass			  Pass
+long			Pass			Pass			  Pass			  Pass
+long double		Pass			Pass			  Pass			  Pass
+
+---------------------------------------------------------------------------------
 
 Purpose:  
 
@@ -29,7 +41,6 @@ Create a project named "Part0" that calculates the size of the following data ty
 * signed char
 * unsigned char
 * char
-* unsigned short
 * short
 * signed
 * unsigned
@@ -43,7 +54,7 @@ Create a project named "Part0" that calculates the size of the following data ty
 * double
 * long double
 
-Create an assert statement for each type’s size entry found in table 4.3.1 page 81. 
+Create an assert statement for each type’s size entry found in table 4.3.1 page 81 (excluding int). 
 Use either == or != comparison to pass every assertion for the x86 debug configuration build.  
 
 Batch build all x86, 64 bit and debug, release versions of your code.  
@@ -63,8 +74,8 @@ Create a project named "Part1" Calculate the size of the following literals and 
 * ‘\0’
 * ‘\377’
 * 0.0
-* 0f
-* "Annie" " " "\\"Lennox\\"\n"
+* 0.f
+* "Annie" " " "\"Lennox\"\n"
 
 Terminate each output with a non-flushing newline.  
 
