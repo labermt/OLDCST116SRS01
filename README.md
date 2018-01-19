@@ -2,7 +2,7 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Clamperl 
 
 SRS ID:  CST116SRS01 
 
@@ -49,6 +49,13 @@ Use either == or != comparison to pass every assertion for the x86 debug configu
 Batch build all x86, 64 bit and debug, release versions of your code.  
 
 In the README.md file, note for each assertion if it passes or fails the assertion test regardless of the build configuration.  
+ char		pass
+ float		pass
+ double		pass
+ bool		pass
+ short		pass
+ long		pass
+ long double pass
 
 Part 1:  
 
