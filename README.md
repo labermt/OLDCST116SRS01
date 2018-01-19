@@ -1,8 +1,8 @@
-# CST116SRS01
+﻿# CST116SRS01
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Eelektrik
 
 SRS ID:  CST116SRS01 
 
