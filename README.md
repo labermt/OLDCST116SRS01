@@ -2,11 +2,12 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Feebas		
 
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  *?* 
+Unresolved Issues:  None
+All of the assert statements from page 81 passed.
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
@@ -60,13 +61,14 @@ Create a project named "Part1" Calculate the size of the following literals and 
 * 1
 * 0xffff
 * 0UL
-* ‘\0’
-* ‘\377’
+* '\0'
+* '\l377'
 * 0.0
 * 0.f
 * "Annie" " " "\\"Lennox\\"\n"
 
 Terminate each output with a non-flushing newline.  
+
 
 Terminate the last output with std::endl to flush any remaining data.  
 
