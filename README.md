@@ -49,6 +49,13 @@ Use either == or != comparison to pass every assertion for the x86 debug configu
 Batch build all x86, 64 bit and debug, release versions of your code.  
 
 In the README.md file, note for each assertion if it passes or fails the assertion test regardless of the build configuration.  
+Bool pass.
+char pass
+float pass
+double pass
+short pass
+long pass
+long double pass
 
 Part 1:  
 
@@ -63,8 +70,8 @@ Create a project named "Part1" Calculate the size of the following literals and 
 * ‘\0’
 * ‘\377’
 * 0.0
-* 0f
-* "Annie" " " "\\"Lennox\\"\n"
+* 0.f
+* "Annie" " " "\"Lennox\"\n"
 
 Terminate each output with a non-flushing newline.  
 
