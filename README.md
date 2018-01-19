@@ -2,17 +2,17 @@
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Bouffalant
 
 SRS ID:  CST116SRS01 
 
-Unresolved Issues:  *?* 
+Unresolved Issues:  none 
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
 ---
 
-Purpose:  
+Purpose:
 
 * Learn to create a Visual Studio solution with multiple projects and multiple configurations. 
 * Learn how to find the sizes of various literals and data types. 
@@ -34,7 +34,6 @@ Create a project named "Part0" that calculates the size of the following data ty
 * signed
 * unsigned
 * int
-* unsigned short
 * std::size_t
 * signed long
 * unsigned long
@@ -43,7 +42,8 @@ Create a project named "Part0" that calculates the size of the following data ty
 * double
 * long double
 
-Create an assert statement for each type’s size entry found in table 4.3.1 page 81 (excluding int). 
+
+Create an assert statement for each type’s size entry found in table 4.3.1 page 81 except int. 
 Use either == or != comparison to pass every assertion for the x86 debug configuration build.  
 
 Batch build all x86, 64 bit and debug, release versions of your code.  
