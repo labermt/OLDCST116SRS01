@@ -1,8 +1,8 @@
-# CST116SRS01
+﻿# CST116SRS01
 sizeof
 
 
-Class ID:  *Pokemon* 
+Class ID:  Ferrothorn 
 
 SRS ID:  CST116SRS01 
 
@@ -10,6 +10,10 @@ Unresolved Issues:  *?*
 
 Notes:  Compile with Visual Studio 2017 on Windows 10. 
 
+Assertion Tests:
+x86 - Successful
+64 bit - Successful
+Debug - Successful
 ---
 
 Purpose:  
