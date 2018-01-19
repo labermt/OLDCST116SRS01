@@ -42,6 +42,7 @@ Create a project named "Part0" that calculates the size of the following data ty
 * double
 * long double
 
+
 Create an assert statement for each type’s size entry found in table 4.3.1 page 81 except int. 
 Use either == or != comparison to pass every assertion for the x86 debug configuration build.  
 
